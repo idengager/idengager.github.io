@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          https://sparanoid.com/
-  twitter:      tunghsiao
+  name:         Kasia Jarmołkowicz
+  email:        idengager@mailbox.org
+  web:          https://idengager.github.io
+  twitter:      _idengager
 
 tester:
   name:         Tester

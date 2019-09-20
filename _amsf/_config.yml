@@ -8,7 +8,7 @@
 #
 source:         _app
 destination:    _site
-timezone:       America/Los_Angeles
+timezone:       Europe/Warsaw
 permalink:      /:title.html
 markdown:       kramdown
 highlighter:    rouge
@@ -66,7 +66,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           kasia.click
 
 # Site short name
 #
@@ -82,7 +82,7 @@ name:           Almace Scaffolding
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     AMSF
+name_short:     kasia.click
 
 # Site description
 #
@@ -99,7 +99,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /lab/amsf
+baseurl:        ''
 
 # Flatten base
 #
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://idengager.github.io
 
 # Media assets URL
 #
@@ -176,7 +176,7 @@ google_analytics:
   url:          https://www.google-analytics.com/analytics.js
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        _idengager
 
 # Twitter Cards large images
 #
